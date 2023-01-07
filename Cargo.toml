@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2021"
 authors = ["Ben Weinstein-Raun <b@w-r.me>"]
 description = "A CRDT framework for fast and easy collaboration"
-license = "CC0-1.0 OR GPL-2.0-or-later"
+license = "CC0-1.0 OR MIT"
 repository = "https://github.com/benwr/cordata"
 
 [dev-dependencies]
